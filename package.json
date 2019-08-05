@@ -1,0 +1,27 @@
+{
+  "name": "to-to-list",
+  "version": "1.0.0",
+  "description": "Мое первое приложение",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RagnarLodbrok94/My-to-do-list.git"
+  },
+  "author": "Denis Shclyar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RagnarLodbrok94/My-to-do-list/issues"
+  },
+  "homepage": "https://github.com/RagnarLodbrok94/My-to-do-list#readme"
+}
